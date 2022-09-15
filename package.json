@@ -1,0 +1,14 @@
+{
+  "name": "@odeschenes/react-taggable-textarea",
+  "version": "0.0.1",
+  "description": "React component for tags in a textarea-like container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olivier Deschênes",
+  "license": "ISC",
+  "publishConfig": {
+    "@odeschenes:registry": "https://npm.pkg.github.com"
+  }
+}
